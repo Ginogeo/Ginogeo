@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Gino Geo 👋
 
-<!--
-**Ginogeo/Ginogeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate developer skilled in building robust, scalable applications and smart contracts. I enjoy working on innovative projects and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Python**: Scripting, automation, backend development, data analysis
+- **Solidity**: Smart contract development for Ethereum and EVM-compatible blockchains
+- **Prisma**: Database ORM for Node.js & TypeScript
+- **React**: Modern front-end development, building dynamic user interfaces
+
+## 📫 How to reach me
+- GitHub: [Ginogeo](https://github.com/Ginogeo)
