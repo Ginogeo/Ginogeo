@@ -11,7 +11,7 @@ Always eager to learn, collaborate, and contribute to high-performance backend i
 
 ## 🛠️ Skills
 
-* **Languages & Runtimes:** Python, JavaScript, TypeScript, Node.js
+* **Languages & Runtimes:** Python, JavaScript, Node.js
 * **Backend Frameworks:** Express
 * **Databases & Graph:** MongoDB, MySQL, ChromaDB (Vector DB), Neo4j (Graph DB)
 * **ORMs & Data Layer:** Prisma, Mongoose
