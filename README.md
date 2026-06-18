@@ -1,16 +1,22 @@
 # Hi, I'm Gino Geo 👋
 
-Welcome to my GitHub profile!
+Backend Engineer & Tech Enthusiast focused on building robust server-side architectures, distributed systems, and practical Generative AI implementations.
 
 ## 🚀 About Me
-I'm a passionate developer skilled in building robust, scalable applications and smart contracts. I enjoy working on innovative projects and learning new technologies.
+I am an entry-level Backend Engineer with a solid foundation in Python, Node.js, and database orchestration. I enjoy solving complex structural and data problems—ranging from tracking real-time data and monitoring decentralized blockchain networks to engineering advanced, context-aware RAG pipelines. 
+
+Always eager to learn, collaborate, and contribute to high-performance backend infrastructure and intelligent software solutions.
+
+---
 
 ## 🛠️ Skills
 
-- **Python**: Scripting, automation, backend development, data analysis
-- **Solidity**: Smart contract development for Ethereum and EVM-compatible blockchains
-- **Prisma**: Database ORM for Node.js & TypeScript
-- **React**: Modern front-end development, building dynamic user interfaces
+* **Languages & Runtimes:** Python, JavaScript, TypeScript, Node.js
+* **Backend Frameworks:** Express
+* **Databases & Graph:** MongoDB, MySQL, ChromaDB (Vector DB), Neo4j (Graph DB)
+* **ORMs & Data Layer:** Prisma, Mongoose
+* **Tools & API Testing:** Git, Postman
 
-## 📫 How to reach me
-- GitHub: [Ginogeo](https://github.com/Ginogeo)
+---
+## 📫 Connect with Me
+* **GitHub:** [@Ginogeo](https://github.com/Ginogeo)
